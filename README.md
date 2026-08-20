@@ -1,5 +1,5 @@
-## taller-git-github
-# ¡Bienvenidos al Taller de Git & GitHub! 🎉
+# taller-git-github
+## ¡Bienvenidos al Taller de Git & GitHub! 🎉
 
 Este es nuestro primer proyecto colaborativo. Agrega tu nombre
 haciendo un Pull Request — así lo hacen los desarrolladores reales.
